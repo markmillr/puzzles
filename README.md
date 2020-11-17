@@ -3,11 +3,11 @@ Puzzles for Thanksgiving break y'all.
 
 Have fun.
 
-Instructions:
+**Instructions:**
 
 Clone this repo either to your local machine or to Repl.it (https://repl.it/languages/python3). If you would like to save your work on Repl.it, make sure to sign in before visiting the link.
 
-Problems:
+**Problems:**
 
 1: Write a Python program that:
 
