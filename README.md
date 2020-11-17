@@ -21,6 +21,6 @@ Problems:
     a) Prompts the user to write a series of numbers, each separated by a space (for example, '3 42 22 108').
     b) Once the user hits enter, the program will ... [I couldn't figure out exactly what you were getting at].
 
-    The code for this progarm should be in the file number_say_something_here.py
+    The code for this program should be in the file number_say_something_here.py
 
 If you have questions text on the Slack (https://join.slack.com/t/dvgate/shared_invite/zt-ijp1fq2e-mi5WmevnbcgzzI6YefK9gQ). Follow the instructions to set up an account if you don't have one. Use the "puzzles" channel.
